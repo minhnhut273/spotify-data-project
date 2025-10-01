@@ -32,4 +32,4 @@ for country in countries:
     with open(out_file, "w", encoding="utf-8") as f:
         nbformat.write(nb_copy, f)
     
-    print(f"✅ Created {out_file}")
+    print(f" Created {out_file}")

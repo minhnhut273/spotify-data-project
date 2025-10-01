@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 BASE_FOLDER = "data/data-top50"
-OUT_FOLDER = "output_heatmap/corr_matrix"
+OUT_FOLDER = "reports/figure/output_heatmap/corr_matrix"
 
 def process_folder(folder):
     audio_files = glob.glob(os.path.join(folder, "*-with-audio.csv"))

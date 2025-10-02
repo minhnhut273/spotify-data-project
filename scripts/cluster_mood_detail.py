@@ -7,7 +7,7 @@ from sklearn.cluster import KMeans
 
 # Đường dẫn thư mục dữ liệu và output
 DATA_DIR = os.path.join('data', 'data-top50')
-OUTPUT_DIR = os.path.join('output_heatmap', 'cluster_mood_detail')
+OUTPUT_DIR = os.path.join('reports/figure/analysis/output_heatmap', 'cluster_mood_detail')
 
 # Các đặc trưng sử dụng cho phân cụm
 FEATURES = [

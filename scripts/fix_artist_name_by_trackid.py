@@ -66,10 +66,10 @@ if __name__ == '__main__':
         'argentina', 'france', 'italy', 'japan', 'mexico',
         'south-korea', 'spain', 'uk', 'usa', 'world'
     ]
-    
+    base_dir = 'data/data-top50'
     for country in countries:
-        input_path = f'encoded_song_or_artist_rows_{country}.csv'
-        output_path = f'spotify_streaming_top_50_fixed_{country}.csv'
+        input_path = os.path.abspath(os.path.join(base_dir, country,f'encoded_song_or_artist_rows_{country}.csv'))
+        output_path = os.path.abspath(os.path.join(base_dir, country,f'spotify_streaming_top_50_fixed_{country}.csv'))
         print(f"Checking: {input_path}")
         if os.path.isfile(input_path):
             update_artist_names(input_csv=input_path, output_csv=output_path)

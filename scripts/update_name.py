@@ -9,10 +9,10 @@ countries = [
 
 # Hàm xử lý cho một quốc gia
 def process_country(country):
-    base_dir = 'spotify-data-project/data/data-top50'
-    fixed_filename = f'spotify_streaming_top_50_fixed_{country}.csv'
+    base_dir = 'data/data-top50'
+    fixed_filename = os.path.abspath(os.path.join(base_dir, country,f'spotify_streaming_top_50_fixed_{country}.csv'))
     clean_filename = os.path.abspath(os.path.join(base_dir, country, f'spotify-streaming-top-50-{country}-with-meta-clean.csv'))
-    output_filename = os.path.abspath(os.path.join(base_dir, country,f'spotify-streaming-top-50-{country}-updated.csv'))
+
     
     # Kiểm tra file clean tồn tại
     if not os.path.exists(clean_filename):
@@ -50,8 +50,8 @@ def process_country(country):
             fixed_count += 1
     
     # Lưu file updated
-    clean_df.to_csv(output_filename, index=False, encoding='utf-8-sig')
-    print(f"[{country.upper()}] Đã thay thế {fixed_count} rows. Lưu vào {output_filename}")
+    clean_df.to_csv(clean_filename, index=False, encoding='utf-8-sig')
+    print(f"[{country.upper()}] Đã thay thế {fixed_count} rows. Lưu vào {clean_filename}")
 
 # Chạy cho tất cả quốc gia
 print("Bắt đầu xử lý tất cả file...")

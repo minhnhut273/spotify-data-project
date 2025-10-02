@@ -24,7 +24,7 @@ if __name__ == '__main__':
         'argentina', 'france', 'italy', 'japan', 'mexico',
         'south-korea', 'spain', 'uk', 'usa', 'world'
     ]
-    base_dir = 'spotify-data-project/data/data-top50'
+    base_dir = 'data/data-top50'
     
     for country in countries:
         input_path = os.path.abspath(os.path.join(base_dir, country, f'spotify-streaming-top-50-{country}-with-meta-clean.csv'))
@@ -36,7 +36,7 @@ if __name__ == '__main__':
                 song_col='song', 
                 artist_col='artist', 
                 trackid_col='track_id', 
-                output_path=output_path
+                output_path=os.path.abspath(os.path.join(base_dir, country, output_path))
             )
         else:
             print(f'File not found: {input_path}')

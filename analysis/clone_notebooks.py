@@ -1,14 +1,17 @@
 import nbformat
 import os
 
-# Nguồn gốc notebook (template)
-template_file = "analysis/EDA_france.ipynb"
+# Template gốc (đặt trong đúng folder region, vd: analysis/europe/EDA_france.ipynb)
+template_file = "analysis/europe/EDA_france.ipynb"
 
-# Danh sách quốc gia (folder data)
+# Danh sách quốc gia cần clone
 countries = [
     "france", "italy", "japan", "mexico", "south-korea",
     "spain", "uk", "usa", "argentina", "world"
 ]
+
+# Lấy region từ đường dẫn template (analysis/<region>/EDA_xxx.ipynb)
+region = os.path.basename(os.path.dirname(template_file))
 
 # Tạo thư mục analysis nếu chưa có
 os.makedirs("analysis", exist_ok=True)
@@ -17,18 +20,22 @@ os.makedirs("analysis", exist_ok=True)
 with open(template_file, "r", encoding="utf-8") as f:
     nb = nbformat.read(f, as_version=4)
 
-# Lặp từng quốc gia để clone
+# Clone cho từng quốc gia
 for country in countries:
-    nb_copy = nbformat.from_dict(nb)  # copy cấu trúc
+    nb_copy = nbformat.from_dict(nb)
     
-    # Thay chữ 'France' trong markdown/code thành tên nước tương ứng
+    # Thay thế tên trong cell
     for cell in nb_copy.cells:
         if cell.cell_type in ["markdown", "code"]:
             cell.source = cell.source.replace("France", country.capitalize())
-            cell.source = cell.source.replace("france", country)  # lowercase cho path
+            cell.source = cell.source.replace("france", country)  # lowercase
     
-    # Ghi file mới vào folder analysis
-    out_file = os.path.join("analysis", f"EDA_{country}.ipynb")
+    # Nếu là "world" thì cho vào analysis/world/
+    target_region = "world" if country == "world" else region
+    out_dir = os.path.join("analysis", target_region)
+    os.makedirs(out_dir, exist_ok=True)
+    
+    out_file = os.path.join(out_dir, f"EDA_{country}.ipynb")
     with open(out_file, "w", encoding="utf-8") as f:
         nbformat.write(nb_copy, f)
     

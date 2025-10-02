@@ -33,7 +33,7 @@ def preprocess_meta(file_path, out_path):
 
     # Xuất file mới
     df_clean.to_csv(out_path, index=False, encoding="utf-8-sig")
-    print(f"✅ Meta cleaned: {out_path} (shape={df_clean.shape})")
+    print(f" Meta cleaned: {out_path} (shape={df_clean.shape})")
     return df_clean
 
 
@@ -45,9 +45,9 @@ def preprocess_all(parent_folder):
         if os.path.isdir(os.path.join(parent_folder, name))
     ]
 
-    print("📂 Tổng số folder:", len(subfolders))
+    print(" Tổng số folder:", len(subfolders))
     for sub in subfolders:
-        print(f"\n▶ Đang xử lý folder: {sub}")
+        print(f"\n Đang xử lý folder: {sub}")
 
         # Tìm file with-meta trong folder
         meta_files = glob.glob(f"{sub}/*with-meta*.csv")
@@ -56,7 +56,7 @@ def preprocess_all(parent_folder):
             out_meta = meta_file.replace(".csv", "-clean.csv")
             preprocess_meta(meta_file, out_meta)
         else:
-            print(f"⚠️ Không tìm thấy with-meta.csv trong {sub}")
+            print(f" Không tìm thấy with-meta.csv trong {sub}")
 
 #--------------------------------------------------------TIỀN XỬ LÝ---------------------------
 
@@ -73,20 +73,20 @@ def view_missing_meta(parent_folder, n=10):
         if os.path.isdir(os.path.join(parent_folder, name))
     ]
 
-    print("📂 Tổng số folder:", len(subfolders))
+    print(" Tổng số folder:", len(subfolders))
     for sub in subfolders:
         meta_files = glob.glob(os.path.join(sub, "*with-meta-clean.csv"))
         if meta_files:
             file_path = meta_files[0]
             df = pd.read_csv(file_path)
 
-            print(f"\n📂 File: {file_path}")
+            print(f"\n File: {file_path}")
             print("Shape:", df.shape)
             print("Số giá trị thiếu theo cột:\n", df.isna().sum())
             print(f"\n{n} dòng đầu:\n", df.head(n))
             print("-"*60)
         else:
-            print(f"⚠️ Không tìm thấy with-meta-clean.csv trong {sub}")
+            print(f" Không tìm thấy with-meta-clean.csv trong {sub}")
 
     #----------------------------------------------------------XỬ LÝ-----------------------------
 def handle_missing_meta(file_path):
@@ -131,7 +131,7 @@ def handle_missing_meta(file_path):
 
     # 5. Ghi đè chính file gốc
     df.to_csv(file_path, index=False, encoding="utf-8-sig")
-    print(f"✅ Đã xử lý missing và ghi đè: {file_path} (shape={df.shape})")
+    print(f" Đã xử lý missing và ghi đè: {file_path} (shape={df.shape})")
 
     return df
 
@@ -148,14 +148,14 @@ def handle_missing_meta_in_all(parent_folder):
         if os.path.isdir(os.path.join(parent_folder, name))
     ]
 
-    print("📂 Tổng số folder:", len(subfolders))
+    print("Tổng số folder:", len(subfolders))
     for sub in subfolders:
         meta_files = glob.glob(os.path.join(sub, "*with-meta-clean.csv"))
         if meta_files:
             meta_file = meta_files[0]
             handle_missing_meta(meta_file)
         else:
-            print(f"⚠️ Không tìm thấy with-meta-clean.csv trong {sub}")
+            print(f" Không tìm thấy with-meta-clean.csv trong {sub}")
 
 
 
@@ -196,7 +196,7 @@ def standardize_meta(file_path):
 
     # Xuất lại file (ghi đè)
     df.to_csv(file_path, index=False, encoding="utf-8-sig")
-    print(f"✅ Đã chuẩn hóa dữ liệu: {file_path} (shape={df.shape})")
+    print(f" Đã chuẩn hóa dữ liệu: {file_path} (shape={df.shape})")
 
     return df
 
@@ -212,17 +212,17 @@ def standardize_meta_in_all(parent_folder):
         if os.path.isdir(os.path.join(parent_folder, name))
     ]
 
-    print("📂 Tổng số folder:", len(subfolders))
+    print(" Tổng số folder:", len(subfolders))
     for sub in subfolders:
         meta_files = glob.glob(os.path.join(sub, "*with-meta-clean.csv"))
         if meta_files:
             meta_file = meta_files[0]
             standardize_meta(meta_file)
         else:
-            print(f"⚠️ Không tìm thấy with-meta-clean.csv trong {sub}")
+            print(f" Không tìm thấy with-meta-clean.csv trong {sub}")
 
 if __name__ == "__main__":
-    parent_folder = os.path.join("..", "data", "data-top50")  # 🔧 thay đường dẫn gốc của bạn
+    parent_folder = os.path.join("..", "data", "data-top50")  #  thay đường dẫn gốc của bạn
     # preprocess_all(parent_folder)
 
     view_missing_meta(parent_folder, 10)

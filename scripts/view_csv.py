@@ -18,7 +18,7 @@ for i in range(0, len(subfolders)):
 
 
     try:
-        index = 3
+        index = 0
         print("Số thứ tự file CSV:", i)
         print("tên  file:", csv_files[index])
         df = pd.read_csv(csv_files[index])

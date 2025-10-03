@@ -13,17 +13,14 @@ def preprocess_meta(file_path, out_path):
     """Tiền xử lý with-meta.csv"""
     df = pd.read_csv(file_path)
 
-    # Giữ lại các cột quan trọng
     keep_cols = [col for col in META_COLUMNS if col in df.columns]
     df_clean = df[keep_cols]
 
-    # Chuẩn hóa release_date
     if "release_date" in df_clean.columns:
         df_clean["release_date"] = pd.to_datetime(
             df_clean["release_date"], errors="coerce"
         )
 
-    # Chuẩn hóa genres
     if "genres" in df_clean.columns:
         df_clean["genres"] = (
             df_clean["genres"]
@@ -31,7 +28,6 @@ def preprocess_meta(file_path, out_path):
             .str.lower()
         )
 
-    # Xuất file mới
     df_clean.to_csv(out_path, index=False, encoding="utf-8-sig")
     print(f" Meta cleaned: {out_path} (shape={df_clean.shape})")
     return df_clean
@@ -86,7 +82,7 @@ def view_missing_meta(parent_folder, n=10):
             print(f"\n{n} dòng đầu:\n", df.head(n))
             print("-"*60)
         else:
-            print(f" Không tìm thấy with-meta-clean.csv trong {sub}")
+            print(f" Không tìm thấy csv trong {sub}")
 
     #----------------------------------------------------------XỬ LÝ-----------------------------
 def handle_missing_meta(file_path):

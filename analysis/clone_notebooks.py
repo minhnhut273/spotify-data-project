@@ -6,8 +6,7 @@ template_file = "analysis/europe/EDA_france.ipynb"
 
 # Danh sách quốc gia cần clone
 countries = [
-    "france", "italy", "japan", "mexico", "south-korea",
-    "spain", "uk", "usa", "argentina", "world"
+     "usa", "italy", "spain", "uk", "japan", "south_korea", "argentina", "world" , "mexico"
 ]
 
 # Lấy region từ đường dẫn template (analysis/<region>/EDA_xxx.ipynb)

@@ -215,7 +215,7 @@ def standardize_meta_in_all(parent_folder):
             meta_file = meta_files[0]
             standardize_meta(meta_file)
         else:
-            print(f" Không tìm thấy with-meta-clean.csv trong {sub}")
+            print(f" Không tìm thấy csv trong {sub}")
 
 if __name__ == "__main__":
     parent_folder = os.path.join("..", "data", "data-top50")  #  thay đường dẫn gốc của bạn

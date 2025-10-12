@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.6)  7 OCT 2025 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.6)  8 OCT 2025 22:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/reports/latex/version_1/report_V1.tex
-(d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/reports/latex/version_1/report_V1.tex
+**d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/latex/version_1/report_V1.tex
+(d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/latex/version_1/report_V1.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
 (../hcmut-report.cls
@@ -1635,7 +1635,7 @@ LaTeX Info: Redefining \ohm on input line 91.
 Package gensymb Info: Using \textohm for \ohm on input line 91.
 Package gensymb Info: Using \textmu for \micro on input line 91.
 Package translations Info: no dictionary file `translations-basic-dictionary-vietnamese.trsl' found. on input line 91.
-<../graphics/hcmut.png, id=142, 291.0072pt x 293.898pt>
+<../graphics/hcmut.png, id=166, 291.0072pt x 293.898pt>
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
 Package pdftex.def Info: ../graphics/hcmut.png  used on input line 93.
@@ -1768,6 +1768,46 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 \tf@toc=\write6
 \openout6 = `report_V1.toc'.
 
+ (report_V1.lof
+
+File: ../graphics/hcmut.png Graphic file (type png)
+<use ../graphics/hcmut.png>
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 17.
+(pdftex.def)             Requested size: 20.0pt x 20.19826pt.
+
+Package fancyhdr Warning: \headheight is too small (35.0pt): 
+(fancyhdr)                Make it at least 37.70004pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.70004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 ...º·c trÆ°ng energy}}{23}{figure.caption.20}
+                                                  % [2]
+
+File: ../graphics/hcmut.png Graphic file (type png)
+<use ../graphics/hcmut.png>
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 48.
+(pdftex.def)             Requested size: 20.0pt x 20.19826pt.
+
+Package fancyhdr Warning: \headheight is too small (35.0pt): 
+(fancyhdr)                Make it at least 37.70004pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.70004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 ... táº¡i trÃªn BXH.}}{63}{figure.caption.54}
+                                                  % [3])
+\tf@lof=\write7
+\openout7 = `report_V1.lof'.
+
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
@@ -1786,7 +1826,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 <to be read again> 
                    \relax 
 l.166 \clearpage
-                 [2]
+                 [4]
 Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
@@ -1796,7 +1836,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
-<../graphics/spotify_logo.png, id=208, 387.4475pt x 387.4475pt>
+<../graphics/spotify_logo.png, id=339, 387.4475pt x 387.4475pt>
 File: ../graphics/spotify_logo.png Graphic file (type png)
 <use ../graphics/spotify_logo.png>
 Package pdftex.def Info: ../graphics/spotify_logo.png  used on input line 180.
@@ -1827,7 +1867,7 @@ l.186
        [1
 
  <../graphics/spotify_logo.png (PNG copy)>]
-<../graphics/spotify_wrapped.png, id=213, 770.88pt x 433.62pt>
+<../graphics/spotify_wrapped.png, id=343, 770.88pt x 433.62pt>
 File: ../graphics/spotify_wrapped.png Graphic file (type png)
 <use ../graphics/spotify_wrapped.png>
 Package pdftex.def Info: ../graphics/spotify_wrapped.png  used on input line 190.
@@ -1923,7 +1963,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [6]
-<../graphics/data_top50/raw.png, id=236, 336.50719pt x 404.26031pt>
+<../graphics/data_top50/raw.png, id=365, 336.50719pt x 404.26031pt>
 File: ../graphics/data_top50/raw.png Graphic file (type png)
 <use ../graphics/data_top50/raw.png>
 Package pdftex.def Info: ../graphics/data_top50/raw.png  used on input line 55.
@@ -1965,7 +2005,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [8]
-<../graphics/data_top50/figure/script/raw_meta/Screenshot 2025-09-30 225603.png, id=248, 408.02437pt x 606.76688pt>
+<../graphics/data_top50/figure/script/raw_meta/Screenshot 2025-09-30 225603.png, id=375, 408.02437pt x 606.76688pt>
 File: ../graphics/data_top50/figure/script/raw_meta/Screenshot 2025-09-30 225603.png Graphic file (type png)
 <use ../graphics/data_top50/figure/script/raw_meta/Screenshot 2025-09-30 225603.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/script/raw_meta/Screenshot 2025-09-30 225603.png  used on input line 90.
@@ -2007,7 +2047,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [10]
-<../graphics/data_top50/figure/script/raw_audio/Screenshot 2025-09-30 230213.png, id=259, 356.83313pt x 350.81062pt>
+<../graphics/data_top50/figure/script/raw_audio/Screenshot 2025-09-30 230213.png, id=385, 356.83313pt x 350.81062pt>
 File: ../graphics/data_top50/figure/script/raw_audio/Screenshot 2025-09-30 230213.png Graphic file (type png)
 <use ../graphics/data_top50/figure/script/raw_audio/Screenshot 2025-09-30 230213.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/script/raw_audio/Screenshot 2025-09-30 230213.png  used on input line 125.
@@ -2069,7 +2109,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 [13
 
 ]
-<../graphics/data_top50/figure/script/Screenshot 2025-10-02 192420.png, id=278, 361.35pt x 402.75468pt>
+<../graphics/data_top50/figure/script/Screenshot 2025-10-02 192420.png, id=404, 361.35pt x 402.75468pt>
 File: ../graphics/data_top50/figure/script/Screenshot 2025-10-02 192420.png Graphic file (type png)
 <use ../graphics/data_top50/figure/script/Screenshot 2025-10-02 192420.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/script/Screenshot 2025-10-02 192420.png  used on input line 423.
@@ -2088,42 +2128,42 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [14 <../graphics/data_top50/figure/script/Screenshot 2025-10-02 192420.png>]
-<../graphics/data_top50/figure/10/EDA_argentina.png, id=286, 1066.7052pt x 416.2752pt>
+<../graphics/data_top50/figure/10/EDA_argentina.png, id=410, 1066.7052pt x 416.2752pt>
 File: ../graphics/data_top50/figure/10/EDA_argentina.png Graphic file (type png)
 <use ../graphics/data_top50/figure/10/EDA_argentina.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/10/EDA_argentina.png  used on input line 516.
 (pdftex.def)             Requested size: 204.85846pt x 79.94424pt.
-<../graphics/data_top50/figure/10/EDA_france.png, id=287, 1066.7052pt x 416.2752pt>
+<../graphics/data_top50/figure/10/EDA_france.png, id=411, 1066.7052pt x 416.2752pt>
 File: ../graphics/data_top50/figure/10/EDA_france.png Graphic file (type png)
 <use ../graphics/data_top50/figure/10/EDA_france.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/10/EDA_france.png  used on input line 522.
 (pdftex.def)             Requested size: 204.85846pt x 79.94424pt.
-<../graphics/data_top50/figure/10/EDA_japan.png, id=288, 1066.7052pt x 416.2752pt>
+<../graphics/data_top50/figure/10/EDA_japan.png, id=412, 1066.7052pt x 416.2752pt>
 File: ../graphics/data_top50/figure/10/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/figure/10/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/10/EDA_japan.png  used on input line 531.
 (pdftex.def)             Requested size: 204.85846pt x 79.94424pt.
-<../graphics/data_top50/figure/10/EDA_world.png, id=289, 1066.7052pt x 416.2752pt>
+<../graphics/data_top50/figure/10/EDA_world.png, id=413, 1066.7052pt x 416.2752pt>
 File: ../graphics/data_top50/figure/10/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/10/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/10/EDA_world.png  used on input line 537.
 (pdftex.def)             Requested size: 204.85846pt x 79.94424pt.
-<../graphics/data_top50/figure/11/EDA_usa.png, id=290, 1138.9752pt x 416.2752pt>
+<../graphics/data_top50/figure/11/EDA_usa.png, id=414, 1138.9752pt x 416.2752pt>
 File: ../graphics/data_top50/figure/11/EDA_usa.png Graphic file (type png)
 <use ../graphics/data_top50/figure/11/EDA_usa.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/11/EDA_usa.png  used on input line 563.
 (pdftex.def)             Requested size: 204.85846pt x 74.86913pt.
-<../graphics/data_top50/figure/11/EDA_italy.png, id=291, 1137.5298pt x 416.2752pt>
+<../graphics/data_top50/figure/11/EDA_italy.png, id=415, 1137.5298pt x 416.2752pt>
 File: ../graphics/data_top50/figure/11/EDA_italy.png Graphic file (type png)
 <use ../graphics/data_top50/figure/11/EDA_italy.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/11/EDA_italy.png  used on input line 569.
 (pdftex.def)             Requested size: 204.85846pt x 74.9644pt.
-<../graphics/data_top50/figure/11/EDA_japan.png, id=292, 1138.9752pt x 416.2752pt>
+<../graphics/data_top50/figure/11/EDA_japan.png, id=416, 1138.9752pt x 416.2752pt>
 File: ../graphics/data_top50/figure/11/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/figure/11/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/11/EDA_japan.png  used on input line 578.
 (pdftex.def)             Requested size: 204.85846pt x 74.86913pt.
-<../graphics/data_top50/figure/11/EDA_world.png, id=293, 1138.9752pt x 416.2752pt>
+<../graphics/data_top50/figure/11/EDA_world.png, id=417, 1138.9752pt x 416.2752pt>
 File: ../graphics/data_top50/figure/11/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/11/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/11/EDA_world.png  used on input line 584.
@@ -2144,32 +2184,32 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 [15
 
  <../graphics/data_top50/figure/10/EDA_argentina.png> <../graphics/data_top50/figure/10/EDA_france.png> <../graphics/data_top50/figure/10/EDA_japan.png> <../graphics/data_top50/figure/10/EDA_world.png>]
-<../graphics/data_top50/figure/12/EDA_usa.png, id=304, 843.3909pt x 408.3255pt>
+<../graphics/data_top50/figure/12/EDA_usa.png, id=427, 843.3909pt x 408.3255pt>
 File: ../graphics/data_top50/figure/12/EDA_usa.png Graphic file (type png)
 <use ../graphics/data_top50/figure/12/EDA_usa.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/12/EDA_usa.png  used on input line 609.
 (pdftex.def)             Requested size: 204.85846pt x 99.17769pt.
-<../graphics/data_top50/figure/12/EDA_uk.png, id=305, 843.3909pt x 408.3255pt>
+<../graphics/data_top50/figure/12/EDA_uk.png, id=428, 843.3909pt x 408.3255pt>
 File: ../graphics/data_top50/figure/12/EDA_uk.png Graphic file (type png)
 <use ../graphics/data_top50/figure/12/EDA_uk.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/12/EDA_uk.png  used on input line 615.
 (pdftex.def)             Requested size: 204.85846pt x 99.17769pt.
-<../graphics/data_top50/figure/12/EDA_south_korea.png, id=306, 843.3909pt x 408.3255pt>
+<../graphics/data_top50/figure/12/EDA_south_korea.png, id=429, 843.3909pt x 408.3255pt>
 File: ../graphics/data_top50/figure/12/EDA_south_korea.png Graphic file (type png)
 <use ../graphics/data_top50/figure/12/EDA_south_korea.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/12/EDA_south_korea.png  used on input line 624.
 (pdftex.def)             Requested size: 204.85846pt x 99.17769pt.
-<../graphics/data_top50/figure/12/EDA_world.png, id=307, 843.3909pt x 408.3255pt>
+<../graphics/data_top50/figure/12/EDA_world.png, id=430, 843.3909pt x 408.3255pt>
 File: ../graphics/data_top50/figure/12/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/12/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/12/EDA_world.png  used on input line 630.
 (pdftex.def)             Requested size: 204.85846pt x 99.17769pt.
-<../graphics/data_top50/figure/14/EDA_uk.png, id=308, 687.2877pt x 405.4347pt>
+<../graphics/data_top50/figure/14/EDA_uk.png, id=431, 687.2877pt x 405.4347pt>
 File: ../graphics/data_top50/figure/14/EDA_uk.png Graphic file (type png)
 <use ../graphics/data_top50/figure/14/EDA_uk.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/14/EDA_uk.png  used on input line 639.
 (pdftex.def)             Requested size: 204.85846pt x 120.84566pt.
-<../graphics/data_top50/figure/14/EDA_world.png, id=309, 687.2877pt x 405.4347pt>
+<../graphics/data_top50/figure/14/EDA_world.png, id=432, 687.2877pt x 405.4347pt>
 File: ../graphics/data_top50/figure/14/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/14/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/14/EDA_world.png  used on input line 645.
@@ -2201,22 +2241,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [17 <../graphics/data_top50/figure/12/EDA_usa.png> <../graphics/data_top50/figure/12/EDA_uk.png> <../graphics/data_top50/figure/12/EDA_south_korea.png> <../graphics/data_top50/figure/12/EDA_world.png> <../graphics/data_top50/figure/14/EDA_uk.png> <../graphics/data_top50/figure/14/EDA_world.png>]
-<../graphics/data_top50/figure/0/EDA_USA.png, id=330, 710.4141pt x 390.258pt>
+<../graphics/data_top50/figure/0/EDA_USA.png, id=451, 710.4141pt x 390.258pt>
 File: ../graphics/data_top50/figure/0/EDA_USA.png Graphic file (type png)
 <use ../graphics/data_top50/figure/0/EDA_USA.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/0/EDA_USA.png  used on input line 685.
 (pdftex.def)             Requested size: 204.85846pt x 112.53474pt.
-<../graphics/data_top50/figure/0/EDA_uk.png, id=331, 710.4141pt x 390.258pt>
+<../graphics/data_top50/figure/0/EDA_uk.png, id=452, 710.4141pt x 390.258pt>
 File: ../graphics/data_top50/figure/0/EDA_uk.png Graphic file (type png)
 <use ../graphics/data_top50/figure/0/EDA_uk.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/0/EDA_uk.png  used on input line 691.
 (pdftex.def)             Requested size: 204.85846pt x 112.53474pt.
-<../graphics/data_top50/figure/0/EDA_south_korea.png, id=332, 719.0865pt x 390.258pt>
+<../graphics/data_top50/figure/0/EDA_south_korea.png, id=453, 719.0865pt x 390.258pt>
 File: ../graphics/data_top50/figure/0/EDA_south_korea.png Graphic file (type png)
 <use ../graphics/data_top50/figure/0/EDA_south_korea.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/0/EDA_south_korea.png  used on input line 700.
 (pdftex.def)             Requested size: 204.85846pt x 111.17703pt.
-<../graphics/data_top50/figure/0/EDA_world.png, id=333, 710.4141pt x 390.258pt>
+<../graphics/data_top50/figure/0/EDA_world.png, id=454, 710.4141pt x 390.258pt>
 File: ../graphics/data_top50/figure/0/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/0/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/0/EDA_world.png  used on input line 706.
@@ -2235,27 +2275,27 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [18 <../graphics/data_top50/figure/0/EDA_USA.png> <../graphics/data_top50/figure/0/EDA_uk.png> <../graphics/data_top50/figure/0/EDA_south_korea.png> <../graphics/data_top50/figure/0/EDA_world.png>]
-<../graphics/data_top50/figure/2/EDA_argentina.png, id=343, 1081.1592pt x 404.712pt>
+<../graphics/data_top50/figure/2/EDA_argentina.png, id=464, 1081.1592pt x 404.712pt>
 File: ../graphics/data_top50/figure/2/EDA_argentina.png Graphic file (type png)
 <use ../graphics/data_top50/figure/2/EDA_argentina.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/2/EDA_argentina.png  used on input line 739.
 (pdftex.def)             Requested size: 182.09486pt x 68.15788pt.
-<../graphics/data_top50/figure/2/EDA_uk.png, id=344, 1094.1678pt x 404.712pt>
+<../graphics/data_top50/figure/2/EDA_uk.png, id=465, 1094.1678pt x 404.712pt>
 File: ../graphics/data_top50/figure/2/EDA_uk.png Graphic file (type png)
 <use ../graphics/data_top50/figure/2/EDA_uk.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/2/EDA_uk.png  used on input line 745.
 (pdftex.def)             Requested size: 182.09486pt x 67.3489pt.
-<../graphics/data_top50/figure/2/EDA_japan.png, id=345, 1019.007pt x 404.712pt>
+<../graphics/data_top50/figure/2/EDA_japan.png, id=466, 1019.007pt x 404.712pt>
 File: ../graphics/data_top50/figure/2/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/figure/2/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/2/EDA_japan.png  used on input line 754.
 (pdftex.def)             Requested size: 182.09486pt x 72.3201pt.
-<../graphics/data_top50/figure/2/EDA_world.png, id=346, 1228.59pt x 404.712pt>
+<../graphics/data_top50/figure/2/EDA_world.png, id=467, 1228.59pt x 404.712pt>
 File: ../graphics/data_top50/figure/2/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/2/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/2/EDA_world.png  used on input line 760.
 (pdftex.def)             Requested size: 182.09486pt x 59.98166pt.
-<../graphics/data_top50/figure/17/EDA_world.png, id=347, 840.5001pt x 463.2507pt>
+<../graphics/data_top50/figure/17/EDA_world.png, id=468, 840.5001pt x 463.2507pt>
 File: ../graphics/data_top50/figure/17/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/17/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/17/EDA_world.png  used on input line 770.
@@ -2274,22 +2314,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [19 <../graphics/data_top50/figure/2/EDA_argentina.png> <../graphics/data_top50/figure/2/EDA_uk.png> <../graphics/data_top50/figure/2/EDA_japan.png> <../graphics/data_top50/figure/2/EDA_world.png> <../graphics/data_top50/figure/17/EDA_world.png>]
-<../graphics/data_top50/figure/1/EDA_argentina.png, id=358, 707.5233pt x 409.7709pt>
+<../graphics/data_top50/figure/1/EDA_argentina.png, id=478, 707.5233pt x 409.7709pt>
 File: ../graphics/data_top50/figure/1/EDA_argentina.png Graphic file (type png)
 <use ../graphics/data_top50/figure/1/EDA_argentina.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/1/EDA_argentina.png  used on input line 813.
 (pdftex.def)             Requested size: 159.33821pt x 92.282pt.
-<../graphics/data_top50/figure/1/EDA_spain.png, id=359, 707.5233pt x 409.7709pt>
+<../graphics/data_top50/figure/1/EDA_spain.png, id=479, 707.5233pt x 409.7709pt>
 File: ../graphics/data_top50/figure/1/EDA_spain.png Graphic file (type png)
 <use ../graphics/data_top50/figure/1/EDA_spain.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/1/EDA_spain.png  used on input line 819.
 (pdftex.def)             Requested size: 159.33821pt x 92.282pt.
-<../graphics/data_top50/figure/1/EDA_south_korea.png, id=360, 667.0521pt x 409.7709pt>
+<../graphics/data_top50/figure/1/EDA_south_korea.png, id=480, 667.0521pt x 409.7709pt>
 File: ../graphics/data_top50/figure/1/EDA_south_korea.png Graphic file (type png)
 <use ../graphics/data_top50/figure/1/EDA_south_korea.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/1/EDA_south_korea.png  used on input line 828.
 (pdftex.def)             Requested size: 159.33821pt x 97.87807pt.
-<../graphics/data_top50/figure/1/EDA_world.png, id=361, 711.1368pt x 409.7709pt>
+<../graphics/data_top50/figure/1/EDA_world.png, id=481, 711.1368pt x 409.7709pt>
 File: ../graphics/data_top50/figure/1/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/1/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/1/EDA_world.png  used on input line 834.
@@ -2308,22 +2348,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [20 <../graphics/data_top50/figure/1/EDA_argentina.png> <../graphics/data_top50/figure/1/EDA_spain.png> <../graphics/data_top50/figure/1/EDA_south_korea.png> <../graphics/data_top50/figure/1/EDA_world.png>]
-<../graphics/data_top50/figure/25/EDA_mexico.png, id=372, 842.6682pt x 388.8126pt>
+<../graphics/data_top50/figure/25/EDA_mexico.png, id=490, 842.6682pt x 388.8126pt>
 File: ../graphics/data_top50/figure/25/EDA_mexico.png Graphic file (type png)
 <use ../graphics/data_top50/figure/25/EDA_mexico.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/25/EDA_mexico.png  used on input line 882.
 (pdftex.def)             Requested size: 204.85846pt x 94.52129pt.
-<../graphics/data_top50/figure/25/EDA_france.png, id=373, 842.6682pt x 388.8126pt>
+<../graphics/data_top50/figure/25/EDA_france.png, id=491, 842.6682pt x 388.8126pt>
 File: ../graphics/data_top50/figure/25/EDA_france.png Graphic file (type png)
 <use ../graphics/data_top50/figure/25/EDA_france.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/25/EDA_france.png  used on input line 888.
 (pdftex.def)             Requested size: 204.85846pt x 94.52129pt.
-<../graphics/data_top50/figure/25/EDA_japan.png, id=374, 842.6682pt x 388.8126pt>
+<../graphics/data_top50/figure/25/EDA_japan.png, id=492, 842.6682pt x 388.8126pt>
 File: ../graphics/data_top50/figure/25/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/figure/25/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/25/EDA_japan.png  used on input line 897.
 (pdftex.def)             Requested size: 204.85846pt x 94.52129pt.
-<../graphics/data_top50/figure/25/EDA_world.png, id=375, 842.6682pt x 388.8126pt>
+<../graphics/data_top50/figure/25/EDA_world.png, id=493, 842.6682pt x 388.8126pt>
 File: ../graphics/data_top50/figure/25/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/25/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/25/EDA_world.png  used on input line 903.
@@ -2342,22 +2382,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [21 <../graphics/data_top50/figure/25/EDA_mexico.png> <../graphics/data_top50/figure/25/EDA_france.png> <../graphics/data_top50/figure/25/EDA_japan.png> <../graphics/data_top50/figure/25/EDA_world.png>]
-<../graphics/data_top50/figure/24/EDA_usa.png, id=385, 843.3909pt x 407.6028pt>
+<../graphics/data_top50/figure/24/EDA_usa.png, id=502, 843.3909pt x 407.6028pt>
 File: ../graphics/data_top50/figure/24/EDA_usa.png Graphic file (type png)
 <use ../graphics/data_top50/figure/24/EDA_usa.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/24/EDA_usa.png  used on input line 927.
 (pdftex.def)             Requested size: 204.85846pt x 99.00215pt.
-<../graphics/data_top50/figure/24/EDA_uk.png, id=386, 843.3909pt x 407.6028pt>
+<../graphics/data_top50/figure/24/EDA_uk.png, id=503, 843.3909pt x 407.6028pt>
 File: ../graphics/data_top50/figure/24/EDA_uk.png Graphic file (type png)
 <use ../graphics/data_top50/figure/24/EDA_uk.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/24/EDA_uk.png  used on input line 933.
 (pdftex.def)             Requested size: 204.85846pt x 99.00215pt.
-<../graphics/data_top50/figure/24/EDA_spain.png, id=387, 843.3909pt x 407.6028pt>
+<../graphics/data_top50/figure/24/EDA_spain.png, id=504, 843.3909pt x 407.6028pt>
 File: ../graphics/data_top50/figure/24/EDA_spain.png Graphic file (type png)
 <use ../graphics/data_top50/figure/24/EDA_spain.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/24/EDA_spain.png  used on input line 942.
 (pdftex.def)             Requested size: 204.85846pt x 99.00215pt.
-<../graphics/data_top50/figure/24/EDA_world.png, id=388, 843.3909pt x 407.6028pt>
+<../graphics/data_top50/figure/24/EDA_world.png, id=505, 843.3909pt x 407.6028pt>
 File: ../graphics/data_top50/figure/24/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/24/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/24/EDA_world.png  used on input line 948.
@@ -2380,22 +2420,22 @@ Overfull \hbox (8.25851pt too wide) in paragraph at lines 970--971
 []\T5/cmr/m/n/14.4 Nhªt B£n & H n Quèc: sè genre unique th§p v  ên ^^_ành (5^^U8/tu¦n),
  []
 
-<../graphics/data_top50/figure/3/EDA_USA.png, id=398, 522.5121pt x 351.2322pt>
+<../graphics/data_top50/figure/3/EDA_USA.png, id=514, 522.5121pt x 351.2322pt>
 File: ../graphics/data_top50/figure/3/EDA_USA.png Graphic file (type png)
 <use ../graphics/data_top50/figure/3/EDA_USA.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/3/EDA_USA.png  used on input line 989.
 (pdftex.def)             Requested size: 204.85846pt x 137.70352pt.
-<../graphics/data_top50/figure/3/EDA_spain.png, id=399, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/3/EDA_spain.png, id=515, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/3/EDA_spain.png Graphic file (type png)
 <use ../graphics/data_top50/figure/3/EDA_spain.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/3/EDA_spain.png  used on input line 995.
 (pdftex.def)             Requested size: 204.85846pt x 138.66284pt.
-<../graphics/data_top50/figure/3/EDA_japan.png, id=400, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/3/EDA_japan.png, id=516, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/3/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/figure/3/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/3/EDA_japan.png  used on input line 1004.
 (pdftex.def)             Requested size: 204.85846pt x 138.66284pt.
-<../graphics/data_top50/figure/3/EDA_world.png, id=401, 523.9575pt x 351.2322pt>
+<../graphics/data_top50/figure/3/EDA_world.png, id=517, 523.9575pt x 351.2322pt>
 File: ../graphics/data_top50/figure/3/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/3/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/3/EDA_world.png  used on input line 1010.
@@ -2414,22 +2454,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [23 <../graphics/data_top50/figure/3/EDA_USA.png> <../graphics/data_top50/figure/3/EDA_spain.png> <../graphics/data_top50/figure/3/EDA_japan.png> <../graphics/data_top50/figure/3/EDA_world.png>]
-<../graphics/data_top50/figure/4/EDA_uk.png, id=411, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/4/EDA_uk.png, id=526, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/4/EDA_uk.png Graphic file (type png)
 <use ../graphics/data_top50/figure/4/EDA_uk.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/4/EDA_uk.png  used on input line 1040.
 (pdftex.def)             Requested size: 204.85846pt x 138.66284pt.
-<../graphics/data_top50/figure/4/EDA_italy.png, id=412, 526.1256pt x 351.2322pt>
+<../graphics/data_top50/figure/4/EDA_italy.png, id=527, 526.1256pt x 351.2322pt>
 File: ../graphics/data_top50/figure/4/EDA_italy.png Graphic file (type png)
 <use ../graphics/data_top50/figure/4/EDA_italy.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/4/EDA_italy.png  used on input line 1046.
 (pdftex.def)             Requested size: 204.85846pt x 136.76027pt.
-<../graphics/data_top50/figure/4/EDA_argentina.png, id=413, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/4/EDA_argentina.png, id=528, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/4/EDA_argentina.png Graphic file (type png)
 <use ../graphics/data_top50/figure/4/EDA_argentina.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/4/EDA_argentina.png  used on input line 1055.
 (pdftex.def)             Requested size: 204.85846pt x 138.66284pt.
-<../graphics/data_top50/figure/4/EDA_world.png, id=414, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/4/EDA_world.png, id=529, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/4/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/4/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/4/EDA_world.png  used on input line 1061.
@@ -2461,22 +2501,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [25 <../graphics/data_top50/figure/4/EDA_uk.png> <../graphics/data_top50/figure/4/EDA_italy.png> <../graphics/data_top50/figure/4/EDA_argentina.png> <../graphics/data_top50/figure/4/EDA_world.png>]
-<../graphics/data_top50/figure/5/EDA_spain.png, id=428, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/5/EDA_spain.png, id=543, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/5/EDA_spain.png Graphic file (type png)
 <use ../graphics/data_top50/figure/5/EDA_spain.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/5/EDA_spain.png  used on input line 1093.
 (pdftex.def)             Requested size: 204.85846pt x 138.66284pt.
-<../graphics/data_top50/figure/5/EDA_japan.png, id=429, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/5/EDA_japan.png, id=544, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/5/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/figure/5/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/5/EDA_japan.png  used on input line 1099.
 (pdftex.def)             Requested size: 204.85846pt x 138.66284pt.
-<../graphics/data_top50/figure/5/EDA_usa.png, id=430, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/5/EDA_usa.png, id=545, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/5/EDA_usa.png Graphic file (type png)
 <use ../graphics/data_top50/figure/5/EDA_usa.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/5/EDA_usa.png  used on input line 1108.
 (pdftex.def)             Requested size: 204.85846pt x 138.66284pt.
-<../graphics/data_top50/figure/5/EDA_world.png, id=431, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/5/EDA_world.png, id=546, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/5/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/5/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/5/EDA_world.png  used on input line 1114.
@@ -2495,22 +2535,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [26 <../graphics/data_top50/figure/5/EDA_spain.png> <../graphics/data_top50/figure/5/EDA_japan.png> <../graphics/data_top50/figure/5/EDA_usa.png> <../graphics/data_top50/figure/5/EDA_world.png>]
-<../graphics/data_top50/figure/6/EDA_spain.png, id=442, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/6/EDA_spain.png, id=555, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/6/EDA_spain.png Graphic file (type png)
 <use ../graphics/data_top50/figure/6/EDA_spain.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/6/EDA_spain.png  used on input line 1146.
 (pdftex.def)             Requested size: 179.82336pt x 121.71652pt.
-<../graphics/data_top50/figure/6/EDA_south_korea.png, id=443, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/6/EDA_south_korea.png, id=556, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/6/EDA_south_korea.png Graphic file (type png)
 <use ../graphics/data_top50/figure/6/EDA_south_korea.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/6/EDA_south_korea.png  used on input line 1152.
 (pdftex.def)             Requested size: 179.82336pt x 121.71652pt.
-<../graphics/data_top50/figure/6/EDA_usa.png, id=444, 526.1256pt x 351.2322pt>
+<../graphics/data_top50/figure/6/EDA_usa.png, id=557, 526.1256pt x 351.2322pt>
 File: ../graphics/data_top50/figure/6/EDA_usa.png Graphic file (type png)
 <use ../graphics/data_top50/figure/6/EDA_usa.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/6/EDA_usa.png  used on input line 1161.
 (pdftex.def)             Requested size: 179.82336pt x 120.04976pt.
-<../graphics/data_top50/figure/6/EDA_world.png, id=445, 518.8986pt x 351.2322pt>
+<../graphics/data_top50/figure/6/EDA_world.png, id=558, 518.8986pt x 351.2322pt>
 File: ../graphics/data_top50/figure/6/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/6/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/6/EDA_world.png  used on input line 1167.
@@ -2529,12 +2569,12 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [27 <../graphics/data_top50/figure/6/EDA_spain.png> <../graphics/data_top50/figure/6/EDA_south_korea.png> <../graphics/data_top50/figure/6/EDA_usa.png> <../graphics/data_top50/figure/6/EDA_world.png>]
-<../graphics/data_top50/34/EDA_japan.png, id=455, 347.6187pt x 365.6862pt>
+<../graphics/data_top50/34/EDA_japan.png, id=567, 347.6187pt x 365.6862pt>
 File: ../graphics/data_top50/34/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/34/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/34/EDA_japan.png  used on input line 1242.
 (pdftex.def)             Requested size: 172.99498pt x 181.98892pt.
-<../graphics/data_top50/34/EDA_world.png, id=456, 384.4764pt x 365.6862pt>
+<../graphics/data_top50/34/EDA_world.png, id=568, 384.4764pt x 365.6862pt>
 File: ../graphics/data_top50/34/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/34/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/34/EDA_world.png  used on input line 1249.
@@ -2553,22 +2593,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [28 <../graphics/data_top50/34/EDA_japan.png> <../graphics/data_top50/34/EDA_world.png>]
-<../graphics/data_top50/figure/21/EDA_usa.png, id=464, 354.123pt x 365.6862pt>
+<../graphics/data_top50/figure/21/EDA_usa.png, id=575, 354.123pt x 365.6862pt>
 File: ../graphics/data_top50/figure/21/EDA_usa.png Graphic file (type png)
 <use ../graphics/data_top50/figure/21/EDA_usa.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/21/EDA_usa.png  used on input line 1277.
 (pdftex.def)             Requested size: 172.99498pt x 178.64655pt.
-<../graphics/data_top50/figure/21/EDA_spain.png, id=465, 347.6187pt x 365.6862pt>
+<../graphics/data_top50/figure/21/EDA_spain.png, id=576, 347.6187pt x 365.6862pt>
 File: ../graphics/data_top50/figure/21/EDA_spain.png Graphic file (type png)
 <use ../graphics/data_top50/figure/21/EDA_spain.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/21/EDA_spain.png  used on input line 1284.
 (pdftex.def)             Requested size: 172.99498pt x 181.98892pt.
-<../graphics/data_top50/figure/21/EDA_japan.png, id=466, 369.2997pt x 365.6862pt>
+<../graphics/data_top50/figure/21/EDA_japan.png, id=577, 369.2997pt x 365.6862pt>
 File: ../graphics/data_top50/figure/21/EDA_japan.png Graphic file (type png)
 <use ../graphics/data_top50/figure/21/EDA_japan.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/21/EDA_japan.png  used on input line 1298.
 (pdftex.def)             Requested size: 172.99498pt x 171.2978pt.
-<../graphics/data_top50/figure/21/EDA_world.png, id=467, 347.6187pt x 365.6862pt>
+<../graphics/data_top50/figure/21/EDA_world.png, id=578, 347.6187pt x 365.6862pt>
 File: ../graphics/data_top50/figure/21/EDA_world.png Graphic file (type png)
 <use ../graphics/data_top50/figure/21/EDA_world.png>
 Package pdftex.def Info: ../graphics/data_top50/figure/21/EDA_world.png  used on input line 1305.
@@ -2612,12 +2652,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../graphics/data2/1.png, id=482, 791.95876pt x 328.22626pt>
+<../graphics/data2/1.png, id=593, 791.95876pt x 328.22626pt>
 File: ../graphics/data2/1.png Graphic file (type png)
 <use ../graphics/data2/1.png>
 Package pdftex.def Info: ../graphics/data2/1.png  used on input line 86.
 (pdftex.def)             Requested size: 455.24411pt x 188.67854pt.
-<../graphics/data2/2.png, id=483, 682.04813pt x 580.41844pt>
+<../graphics/data2/2.png, id=594, 682.04813pt x 580.41844pt>
 File: ../graphics/data2/2.png Graphic file (type png)
 <use ../graphics/data2/2.png>
 Package pdftex.def Info: ../graphics/data2/2.png  used on input line 92.
@@ -2668,12 +2708,12 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [33 <../graphics/data2/2.png>]
-<../graphics/data2/4.png, id=503, 669.2503pt x 515.67656pt>
+<../graphics/data2/4.png, id=611, 669.2503pt x 515.67656pt>
 File: ../graphics/data2/4.png Graphic file (type png)
 <use ../graphics/data2/4.png>
 Package pdftex.def Info: ../graphics/data2/4.png  used on input line 100.
 (pdftex.def)             Requested size: 409.71692pt x 315.71104pt.
-<../graphics/data2/5.png, id=504, 950.80219pt x 441.14813pt>
+<../graphics/data2/5.png, id=612, 950.80219pt x 441.14813pt>
 File: ../graphics/data2/5.png Graphic file (type png)
 <use ../graphics/data2/5.png>
 Package pdftex.def Info: ../graphics/data2/5.png  used on input line 107.
@@ -2692,7 +2732,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [34 <../graphics/data2/4.png>]
-<../graphics/data2/3.png, id=511, 558.58687pt x 508.14844pt>
+<../graphics/data2/3.png, id=618, 558.58687pt x 508.14844pt>
 File: ../graphics/data2/3.png Graphic file (type png)
 <use ../graphics/data2/3.png>
 Package pdftex.def Info: ../graphics/data2/3.png  used on input line 117.
@@ -2724,17 +2764,17 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [36 <../graphics/data2/3.png>]
-<../graphics/data2/11.png, id=524, 955.31906pt x 455.45157pt>
+<../graphics/data2/11.png, id=630, 955.31906pt x 455.45157pt>
 File: ../graphics/data2/11.png Graphic file (type png)
 <use ../graphics/data2/11.png>
 Package pdftex.def Info: ../graphics/data2/11.png  used on input line 129.
 (pdftex.def)             Requested size: 455.24411pt x 217.0367pt.
-<../graphics/data2/12.png, id=525, 633.86812pt x 392.21532pt>
+<../graphics/data2/12.png, id=631, 633.86812pt x 392.21532pt>
 File: ../graphics/data2/12.png Graphic file (type png)
 <use ../graphics/data2/12.png>
 Package pdftex.def Info: ../graphics/data2/12.png  used on input line 135.
 (pdftex.def)             Requested size: 455.24411pt x 281.6946pt.
-<../graphics/data2/13.png, id=526, 896.59969pt x 412.54124pt>
+<../graphics/data2/13.png, id=632, 896.59969pt x 412.54124pt>
 File: ../graphics/data2/13.png Graphic file (type png)
 <use ../graphics/data2/13.png>
 Package pdftex.def Info: ../graphics/data2/13.png  used on input line 141.
@@ -2753,7 +2793,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [37 <../graphics/data2/11.png>]
-<../graphics/data2/6.png, id=533, 639.89063pt x 500.62032pt>
+<../graphics/data2/6.png, id=638, 639.89063pt x 500.62032pt>
 File: ../graphics/data2/6.png Graphic file (type png)
 <use ../graphics/data2/6.png>
 Package pdftex.def Info: ../graphics/data2/6.png  used on input line 150.
@@ -2772,12 +2812,12 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [38 <../graphics/data2/12.png> <../graphics/data2/13.png>]
-<../graphics/data2/7.png, id=543, 649.67719pt x 481.8pt>
+<../graphics/data2/7.png, id=645, 649.67719pt x 481.8pt>
 File: ../graphics/data2/7.png Graphic file (type png)
 <use ../graphics/data2/7.png>
 Package pdftex.def Info: ../graphics/data2/7.png  used on input line 156.
 (pdftex.def)             Requested size: 318.66948pt x 236.32666pt.
-<../graphics/data2/8.png, id=544, 568.37344pt x 387.69844pt>
+<../graphics/data2/8.png, id=646, 568.37344pt x 387.69844pt>
 File: ../graphics/data2/8.png Graphic file (type png)
 <use ../graphics/data2/8.png>
 Package pdftex.def Info: ../graphics/data2/8.png  used on input line 163.
@@ -2796,12 +2836,12 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [39 <../graphics/data2/6.png> <../graphics/data2/7.png>]
-<../graphics/data2/9.png, id=553, 823.57687pt x 470.50781pt>
+<../graphics/data2/9.png, id=653, 823.57687pt x 470.50781pt>
 File: ../graphics/data2/9.png Graphic file (type png)
 <use ../graphics/data2/9.png>
 Package pdftex.def Info: ../graphics/data2/9.png  used on input line 170.
 (pdftex.def)             Requested size: 318.66948pt x 182.05424pt.
-<../graphics/data2/10.png, id=554, 576.65437pt x 608.2725pt>
+<../graphics/data2/10.png, id=654, 576.65437pt x 608.2725pt>
 File: ../graphics/data2/10.png Graphic file (type png)
 <use ../graphics/data2/10.png>
 Package pdftex.def Info: ../graphics/data2/10.png  used on input line 177.
@@ -2833,27 +2873,27 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [41 <../graphics/data2/10.png>]) (source_3.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
 
  []
 
@@ -2861,7 +2901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 19.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 504.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -2871,22 +2911,22 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+Underfull \hbox (badness 10000) in paragraph at lines 515--517
 
  []
 
@@ -2894,7 +2934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 50.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 535.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -2904,17 +2944,17 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [43]
-Overfull \hbox (19.05072pt too wide) in paragraph at lines 55--56
+Overfull \hbox (19.05072pt too wide) in paragraph at lines 540--541
 []\T5/cmr/m/n/14.4 Gåi \T5/cmr/bx/n/14.4 Rec-coBeats API \T5/cmr/m/n/14.4 ^^_º l§y c¡c ^^_°c tr÷ng ¥m nh¤c: \T5/cmtt/m/n/14.4 danceability,
  []
 
 
-Overfull \hbox (103.73601pt too wide) in paragraph at lines 55--56
+Overfull \hbox (103.73601pt too wide) in paragraph at lines 540--541
 \T5/cmtt/m/n/14.4 energy, tempo, valence, speechiness, acousticness, instrumentalness,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
+Underfull \hbox (badness 10000) in paragraph at lines 562--564
 
  []
 
@@ -2922,7 +2962,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 85.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 570.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -2932,38 +2972,38 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [44]
-Overfull \hbox (13.7521pt too wide) in paragraph at lines 95--95
+Overfull \hbox (13.7521pt too wide) in paragraph at lines 580--580
 []|\T5/cmr/bx/n/14.4 DataType|  
  []
 
 
-Overfull \hbox (60.30946pt too wide) in alignment at lines 93--96
+Overfull \hbox (60.30946pt too wide) in alignment at lines 578--581
  [] [] [] [] 
  []
 
 
-Overfull \hbox (13.7521pt too wide) in paragraph at lines 99--99
+Overfull \hbox (13.7521pt too wide) in paragraph at lines 584--584
 []|\T5/cmr/bx/n/14.4 DataType|  
  []
 
 
-Overfull \hbox (60.30946pt too wide) in alignment at lines 96--100
+Overfull \hbox (60.30946pt too wide) in alignment at lines 581--585
  [] [] [] [] 
  []
 
 
-Overfull \hbox (23.55023pt too wide) in paragraph at lines 113--113
+Overfull \hbox (23.55023pt too wide) in paragraph at lines 598--598
 []|\T5/cmr/m/n/14.4 instrumentalness|  
  []
 
 
-Overfull \hbox (60.30946pt too wide) in alignment at lines 100--122
+Overfull \hbox (60.30946pt too wide) in alignment at lines 585--607
  [] [] [] [] 
  []
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 122.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 607.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -2975,7 +3015,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 [45]
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 122.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 607.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 
@@ -2986,13 +3026,13 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [46]
-<../graphics/data3/Output/step1/missing_values.png, id=596, 1011.78pt x 578.16pt>
+<../graphics/data3/Output/step1/missing_values.png, id=693, 1011.78pt x 578.16pt>
 File: ../graphics/data3/Output/step1/missing_values.png Graphic file (type png)
 <use ../graphics/data3/Output/step1/missing_values.png>
-Package pdftex.def Info: ../graphics/data3/Output/step1/missing_values.png  used on input line 133.
+Package pdftex.def Info: ../graphics/data3/Output/step1/missing_values.png  used on input line 618.
 (pdftex.def)             Requested size: 455.24411pt x 260.14313pt.
 
-Overfull \hbox (4.48119pt too wide) in paragraph at lines 137--138
+Overfull \hbox (4.48119pt too wide) in paragraph at lines 622--623
 \T5/cmtt/m/n/14.4 features \T5/cmr/m/n/14.4 (nh÷ \T5/cmtt/m/n/14.4 danceability\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 energy\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 tempo\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 valence\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 speechiness\T5/cmr/m/n/14.4 ,
  []
 
@@ -3000,7 +3040,7 @@ Overfull \hbox (4.48119pt too wide) in paragraph at lines 137--138
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 138.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 623.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3010,25 +3050,25 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [47 <../graphics/data3/Output/step1/missing_values.png>]
-Overfull \hbox (24.12456pt too wide) in paragraph at lines 141--143
+Overfull \hbox (24.12456pt too wide) in paragraph at lines 626--628
 []\T5/cmr/m/n/14.4 V³ his-togram k±m KDE cho c¡c thuëc t½nh quan trång: \T5/cmtt/m/n/14.4 danceability\T5/cmr/m/n/14.4 ,
  []
 
 
-Overfull \hbox (61.40312pt too wide) in paragraph at lines 141--143
+Overfull \hbox (61.40312pt too wide) in paragraph at lines 626--628
 \T5/cmtt/m/n/14.4 energy\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 tempo\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 valence\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 speechiness\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 acousticness\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 instrumentalness\T5/cmr/m/n/14.4 ,
  []
 
-<../graphics/data3/Output/step1/danceability_distribution.png, id=604, 505.89pt x 289.08pt>
+<../graphics/data3/Output/step1/danceability_distribution.png, id=700, 505.89pt x 289.08pt>
 File: ../graphics/data3/Output/step1/danceability_distribution.png Graphic file (type png)
 <use ../graphics/data3/Output/step1/danceability_distribution.png>
-Package pdftex.def Info: ../graphics/data3/Output/step1/danceability_distribution.png  used on input line 147.
+Package pdftex.def Info: ../graphics/data3/Output/step1/danceability_distribution.png  used on input line 632.
 (pdftex.def)             Requested size: 455.24411pt x 260.14311pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 152.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 637.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3038,16 +3078,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [48 <../graphics/data3/Output/step1/danceability_distribution.png>]
-<../graphics/data3/Output/step1/genre_distribution.png, id=612, 722.7pt x 433.62pt>
+<../graphics/data3/Output/step1/genre_distribution.png, id=708, 722.7pt x 433.62pt>
 File: ../graphics/data3/Output/step1/genre_distribution.png Graphic file (type png)
 <use ../graphics/data3/Output/step1/genre_distribution.png>
-Package pdftex.def Info: ../graphics/data3/Output/step1/genre_distribution.png  used on input line 162.
+Package pdftex.def Info: ../graphics/data3/Output/step1/genre_distribution.png  used on input line 647.
 (pdftex.def)             Requested size: 455.24411pt x 273.14896pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 167.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 652.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3057,16 +3097,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [49 <../graphics/data3/Output/step1/genre_distribution.png>]
-<../graphics/data3/Output/step1/correlation_matrix.png, id=620, 867.24pt x 578.16pt>
+<../graphics/data3/Output/step1/correlation_matrix.png, id=715, 867.24pt x 578.16pt>
 File: ../graphics/data3/Output/step1/correlation_matrix.png Graphic file (type png)
 <use ../graphics/data3/Output/step1/correlation_matrix.png>
-Package pdftex.def Info: ../graphics/data3/Output/step1/correlation_matrix.png  used on input line 174.
+Package pdftex.def Info: ../graphics/data3/Output/step1/correlation_matrix.png  used on input line 659.
 (pdftex.def)             Requested size: 455.24411pt x 303.49443pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 179.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 664.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3076,17 +3116,17 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [50 <../graphics/data3/Output/step1/correlation_matrix.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 678--679
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
+Underfull \hbox (badness 10000) in paragraph at lines 680--682
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
 
  []
 
@@ -3094,7 +3134,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 203.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 688.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3104,25 +3144,25 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [51]
-Overfull \hbox (25.17546pt too wide) in paragraph at lines 209--213
+Overfull \hbox (25.17546pt too wide) in paragraph at lines 694--698
 []\T5/cmr/m/n/14.4 Vîi c¡c cët sè (\T5/cmtt/m/n/14.4 danceability\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 energy\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 tempo\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 valence\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 speechiness\T5/cmr/m/n/14.4 ,
  []
 
 
-Overfull \hbox (22.43608pt too wide) in paragraph at lines 209--213
+Overfull \hbox (22.43608pt too wide) in paragraph at lines 694--698
 \T5/cmtt/m/n/14.4 acousticness\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 instrumentalness\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 liveness\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 loudness\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 key\T5/cmr/m/n/14.4 , \T5/cmtt/m/n/14.4 mode\T5/cmr/m/n/14.4 ):
  []
 
-<../graphics/data3/Output/step2/missing_values_after_clean.png, id=633, 1011.78pt x 578.16pt>
+<../graphics/data3/Output/step2/missing_values_after_clean.png, id=726, 1011.78pt x 578.16pt>
 File: ../graphics/data3/Output/step2/missing_values_after_clean.png Graphic file (type png)
 <use ../graphics/data3/Output/step2/missing_values_after_clean.png>
-Package pdftex.def Info: ../graphics/data3/Output/step2/missing_values_after_clean.png  used on input line 221.
+Package pdftex.def Info: ../graphics/data3/Output/step2/missing_values_after_clean.png  used on input line 706.
 (pdftex.def)             Requested size: 455.24411pt x 260.14313pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 227.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 712.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3132,7 +3172,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [52 <../graphics/data3/Output/step2/missing_values_after_clean.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 244--249
+Underfull \hbox (badness 10000) in paragraph at lines 729--734
 
  []
 
@@ -3140,7 +3180,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--249
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 259.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 744.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3150,16 +3190,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [53]
-<../graphics/data3/Output/step3/correlation_matrix_step3.png, id=648, 867.24pt x 578.16pt>
+<../graphics/data3/Output/step3/correlation_matrix_step3.png, id=740, 867.24pt x 578.16pt>
 File: ../graphics/data3/Output/step3/correlation_matrix_step3.png Graphic file (type png)
 <use ../graphics/data3/Output/step3/correlation_matrix_step3.png>
-Package pdftex.def Info: ../graphics/data3/Output/step3/correlation_matrix_step3.png  used on input line 286.
+Package pdftex.def Info: ../graphics/data3/Output/step3/correlation_matrix_step3.png  used on input line 771.
 (pdftex.def)             Requested size: 455.24411pt x 303.49443pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 290.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 775.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3169,7 +3209,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [54]
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
+Underfull \hbox (badness 10000) in paragraph at lines 783--784
 
  []
 
@@ -3177,7 +3217,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 302.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 787.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3187,30 +3227,30 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [55 <../graphics/data3/Output/step3/correlation_matrix_step3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--307
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
+Underfull \hbox (badness 10000) in paragraph at lines 793--794
 
  []
 
-<../graphics/data3/Output/step4/new_entry_trend.png, id=661, 867.24pt x 433.62pt>
+<../graphics/data3/Output/step4/new_entry_trend.png, id=753, 867.24pt x 433.62pt>
 File: ../graphics/data3/Output/step4/new_entry_trend.png Graphic file (type png)
 <use ../graphics/data3/Output/step4/new_entry_trend.png>
-Package pdftex.def Info: ../graphics/data3/Output/step4/new_entry_trend.png  used on input line 318.
+Package pdftex.def Info: ../graphics/data3/Output/step4/new_entry_trend.png  used on input line 803.
 (pdftex.def)             Requested size: 455.24411pt x 227.62082pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 322.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 807.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3220,16 +3260,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [56]
-<../graphics/data3/Output/step4/hit_longevity.png, id=668, 578.16pt x 361.35pt>
+<../graphics/data3/Output/step4/hit_longevity.png, id=759, 578.16pt x 361.35pt>
 File: ../graphics/data3/Output/step4/hit_longevity.png Graphic file (type png)
 <use ../graphics/data3/Output/step4/hit_longevity.png>
-Package pdftex.def Info: ../graphics/data3/Output/step4/hit_longevity.png  used on input line 332.
+Package pdftex.def Info: ../graphics/data3/Output/step4/hit_longevity.png  used on input line 817.
 (pdftex.def)             Requested size: 455.24411pt x 284.52603pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 336.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 821.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3239,16 +3279,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [57 <../graphics/data3/Output/step4/new_entry_trend.png>]
-<../graphics/data3/Output/step4/track_timeline.png, id=676, 867.24pt x 433.62pt>
+<../graphics/data3/Output/step4/track_timeline.png, id=766, 867.24pt x 433.62pt>
 File: ../graphics/data3/Output/step4/track_timeline.png Graphic file (type png)
 <use ../graphics/data3/Output/step4/track_timeline.png>
-Package pdftex.def Info: ../graphics/data3/Output/step4/track_timeline.png  used on input line 349.
+Package pdftex.def Info: ../graphics/data3/Output/step4/track_timeline.png  used on input line 834.
 (pdftex.def)             Requested size: 455.24411pt x 227.62082pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 353.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 838.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3261,7 +3301,7 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 367.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 852.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3271,16 +3311,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [59 <../graphics/data3/Output/step4/track_timeline.png>]
-<../graphics/data3/Output/step4/top10_genres.png, id=691, 578.16pt x 361.35pt>
+<../graphics/data3/Output/step4/top10_genres.png, id=779, 578.16pt x 361.35pt>
 File: ../graphics/data3/Output/step4/top10_genres.png Graphic file (type png)
 <use ../graphics/data3/Output/step4/top10_genres.png>
-Package pdftex.def Info: ../graphics/data3/Output/step4/top10_genres.png  used on input line 372.
+Package pdftex.def Info: ../graphics/data3/Output/step4/top10_genres.png  used on input line 857.
 (pdftex.def)             Requested size: 455.24411pt x 284.52603pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 385.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 870.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3290,13 +3330,13 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [60 <../graphics/data3/Output/step4/top10_genres.png>]
-<../graphics/data3/Output/step4/top_artists_top10.png, id=699, 722.7pt x 433.62pt>
+<../graphics/data3/Output/step4/top_artists_top10.png, id=787, 722.7pt x 433.62pt>
 File: ../graphics/data3/Output/step4/top_artists_top10.png Graphic file (type png)
 <use ../graphics/data3/Output/step4/top_artists_top10.png>
-Package pdftex.def Info: ../graphics/data3/Output/step4/top_artists_top10.png  used on input line 390.
+Package pdftex.def Info: ../graphics/data3/Output/step4/top_artists_top10.png  used on input line 875.
 (pdftex.def)             Requested size: 409.71692pt x 245.82944pt.
 
-Overfull \hbox (16.00381pt too wide) in paragraph at lines 399--400
+Overfull \hbox (16.00381pt too wide) in paragraph at lines 884--885
 []\T5/cmr/m/n/14.4 Ngo i ra, nhi·u ngh» s¾ kh¡c nh÷ \T5/cmr/bx/n/14.4 Kendrick Lamar\T5/cmr/m/n/14.4 , nhâm \T5/cmr/bx/n/14.4 HUNTR/X\T5/cmr/m/n/14.4 ,
  []
 
@@ -3304,7 +3344,7 @@ Overfull \hbox (16.00381pt too wide) in paragraph at lines 399--400
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 404.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 889.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3314,16 +3354,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [61 <../graphics/data3/Output/step4/top_artists_top10.png>]
-<../graphics/data3/Output/step4/season_features.png, id=706, 722.7pt x 433.62pt>
+<../graphics/data3/Output/step4/season_features.png, id=793, 722.7pt x 433.62pt>
 File: ../graphics/data3/Output/step4/season_features.png Graphic file (type png)
 <use ../graphics/data3/Output/step4/season_features.png>
-Package pdftex.def Info: ../graphics/data3/Output/step4/season_features.png  used on input line 412.
+Package pdftex.def Info: ../graphics/data3/Output/step4/season_features.png  used on input line 897.
 (pdftex.def)             Requested size: 364.19667pt x 218.51653pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 425.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 910.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3333,16 +3373,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [62 <../graphics/data3/Output/step4/season_features.png>]
-<../graphics/data3/Output/step4/longevity_vs_peak.png, id=715, 578.16pt x 361.35pt>
+<../graphics/data3/Output/step4/longevity_vs_peak.png, id=800, 578.16pt x 361.35pt>
 File: ../graphics/data3/Output/step4/longevity_vs_peak.png Graphic file (type png)
 <use ../graphics/data3/Output/step4/longevity_vs_peak.png>
-Package pdftex.def Info: ../graphics/data3/Output/step4/longevity_vs_peak.png  used on input line 435.
+Package pdftex.def Info: ../graphics/data3/Output/step4/longevity_vs_peak.png  used on input line 920.
 (pdftex.def)             Requested size: 364.19667pt x 227.61862pt.
 
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 446.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 931.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3352,17 +3392,17 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [63 <../graphics/data3/Output/step4/longevity_vs_peak.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 943--944
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+Underfull \hbox (badness 10000) in paragraph at lines 945--946
 
  []
 
@@ -3370,7 +3410,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 460--461
 
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 473.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 958.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
@@ -3380,16 +3420,16 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [64]
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 964--965
 
  []
 
 )
-
 File: ../graphics/hcmut.png Graphic file (type png)
 <use ../graphics/hcmut.png>
-Package pdftex.def Info: ../graphics/hcmut.png  used on input line 306.
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 346.
 (pdftex.def)             Requested size: 20.0pt x 20.19826pt.
+
 
 Package fancyhdr Warning: \headheight is too small (35.0pt): 
 (fancyhdr)                Make it at least 37.70004pt, for example:
@@ -3398,7 +3438,72 @@ Package fancyhdr Warning: \headheight is too small (35.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
 
 [65]
-runsystem(latexminted cleantemp  --timestamp 20251007192642 597F59E10EF395F012594CEBD3D93243)...disabled (restricted).
+File: ../graphics/hcmut.png Graphic file (type png)
+<use ../graphics/hcmut.png>
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 346.
+(pdftex.def)             Requested size: 20.0pt x 20.19826pt.
+
+
+Package fancyhdr Warning: \headheight is too small (35.0pt): 
+(fancyhdr)                Make it at least 37.70004pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.70004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
+
+[66]
+Overfull \hbox (71.86943pt too wide) in alignment at lines 352--400
+ [] [] [] 
+ []
+
+File: ../graphics/hcmut.png Graphic file (type png)
+<use ../graphics/hcmut.png>
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 400.
+(pdftex.def)             Requested size: 20.0pt x 20.19826pt.
+
+Package fancyhdr Warning: \headheight is too small (35.0pt): 
+(fancyhdr)                Make it at least 37.70004pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.70004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
+
+[67]
+
+File: ../graphics/hcmut.png Graphic file (type png)
+<use ../graphics/hcmut.png>
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 410.
+(pdftex.def)             Requested size: 20.0pt x 20.19826pt.
+
+Package fancyhdr Warning: \headheight is too small (35.0pt): 
+(fancyhdr)                Make it at least 37.70004pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.70004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
+
+[68]
+Underfull \hbox (badness 4416) in paragraph at lines 419--421
+[]\T5/cmr/m/n/14.4 Spotify. \T5/cmr/m/it/14.4 Spo-tify Web API Doc-u-men-ta-tion\T5/cmr/m/n/14.4 . [][]$\T5/cmtt/m/n/14.4 https : / / developer .
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 423--425
+[]\T5/cmr/m/n/14.4 Billboard. \T5/cmr/m/it/14.4 Bill-board Hot 100 ^^U Mu-sic Charts\T5/cmr/m/n/14.4 . [][]$\T5/cmtt/m/n/14.4 https : / / www .
+ []
+
+
+
+File: ../graphics/hcmut.png Graphic file (type png)
+<use ../graphics/hcmut.png>
+Package pdftex.def Info: ../graphics/hcmut.png  used on input line 433.
+(pdftex.def)             Requested size: 20.0pt x 20.19826pt.
+
+Package fancyhdr Warning: \headheight is too small (35.0pt): 
+(fancyhdr)                Make it at least 37.70004pt, for example:
+(fancyhdr)                \setlength{\headheight}{37.70004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.70004pt}.
+
+[69]
+runsystem(latexminted cleantemp  --timestamp 20251008225326 597F59E10EF395F012594CEBD3D93243)...disabled (restricted).
 
  (report_V1.aux)
  ***********
@@ -3410,20 +3515,20 @@ L3 programming layer <2025-09-02>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `report_V1.out' has not changed.
-(rerunfilecheck)             Checksum: 5950B2CF6522F0EC18EE6A0E2D14DB12;8002.
+(rerunfilecheck)             Checksum: A8D3584EC79391F1D353F796CA544000;9308.
  ) 
 Here is how much of TeX's memory you used:
- 41934 strings out of 468130
- 896805 string characters out of 5430633
+ 41982 strings out of 468130
+ 897449 string characters out of 5430633
  1464658 words of memory out of 5000000
- 69703 multiletter control sequences out of 15000+600000
+ 69730 multiletter control sequences out of 15000+600000
  655785 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,25n,119p,1005b,1375s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,25n,119p,997b,1375s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nhutn\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\nhutn\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/nhutn/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on report_V1.pdf (70 pages, 4708932 bytes).
+Output written on report_V1.pdf (76 pages, 4741327 bytes).
 PDF statistics:
- 815 PDF objects out of 1000 (max. 8388607)
- 178 named destinations out of 1000 (max. 500000)
- 735 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 938 PDF objects out of 1000 (max. 8388607)
+ 196 named destinations out of 1000 (max. 500000)
+ 783 words of extra memory for PDF output out of 10000 (max. 10000000)
 

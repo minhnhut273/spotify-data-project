@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759840002.07559 "d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/reports/latex/version_1/report_V1.tex" "report_V1.pdf" "report_V1" 1759840009.04214 0
+["pdflatex"] 1759938806.30377 "d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/latex/version_1/report_V1.tex" "report_V1.pdf" "report_V1" 1759938813.74967 0
   "../codespace.sty" 1759709462 1746 b28eecf8a9f215e9d9430958a9673655 ""
   "../graphics/data2/1.png" 1759709480 50669 f4627d6c95e83530f5dab55d1ff29991 ""
   "../graphics/data2/10.png" 1759709480 80766 ec6ffc71d8b2498fdc1cf185faa97c1e ""
@@ -346,16 +346,18 @@
   "C:/Users/nhutn/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/nhutn/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/nhutn/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
-  "d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/reports/latex/version_1/report_V1.tex" 1759839963 15882 2897c0ff7d16f9cc6f69cef69fcf0bec ""
-  "report_V1.aux" 1759840008 22568 f23c5744b2c82c1399cf9dcd4b882796 "pdflatex"
-  "report_V1.out" 1759840008 8002 5950b2cf6522f0ec18ee6a0e2d14db12 "pdflatex"
-  "report_V1.tex" 1759839963 15882 2897c0ff7d16f9cc6f69cef69fcf0bec ""
-  "report_V1.toc" 1759840008 3706 8223ace2c878ea32919e182de67a56c9 "pdflatex"
+  "d:/DOWNLOAD/HK251/DATH-KTDL/API-spotify/latex/version_1/report_V1.tex" 1759938789 21296 c0b88c260cf8c460d48d99d0f7040877 ""
+  "report_V1.aux" 1759938813 23952 913c834d4019ee43902d02fa452be319 "pdflatex"
+  "report_V1.lof" 1759938813 6004 70a2baef3d9e1c97b63be503324a8c18 "pdflatex"
+  "report_V1.out" 1759938813 9308 a8d3584ec79391f1d353f796ca544000 "pdflatex"
+  "report_V1.tex" 1759938789 21296 c0b88c260cf8c460d48d99d0f7040877 ""
+  "report_V1.toc" 1759938813 4317 6ad4930414173526416201843822117a "pdflatex"
   "source_1.tex" 1759762851 57807 6edd2aa7797bda04d7cc5c21068cc4ec ""
-  "source_2.tex" 1759839881 9668 00ca4473bb86ffdc8250bf04b8ddaf45 ""
-  "source_3.tex" 1759839994 35301 2b90b76cae2526f650c35cf1c1d18199 ""
+  "source_2.tex" 1759938507 9668 00ca4473bb86ffdc8250bf04b8ddaf45 ""
+  "source_3.tex" 1759938602 71366 085877bac4d3bed734e1019e5cd27813 ""
   (generated)
   "report_V1.aux"
+  "report_V1.lof"
   "report_V1.log"
   "report_V1.out"
   "report_V1.pdf"
